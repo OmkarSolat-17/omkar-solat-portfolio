@@ -1,0 +1,24 @@
+{
+  "overview": "A premium futuristic AI-ML portfolio website for Omkar Solat, showcasing skills, projects, and certifications with a modern dark theme and glassmorphism design.",
+  "features": [
+    "Hero section with animated gradient orb and typing effect",
+    "Categorized skills with glowing animated badges",
+    "5 sample project cards in editable array format",
+    "Visual certification badge cards with platform logos",
+    "Learning journey timeline",
+    "Contact section with social links",
+    "Custom cursor and scroll progress indicator",
+    "Animated navbar with active section highlighting",
+    "Fully responsive across mobile, tablet, and desktop"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "ai-ml",
+    "dark-theme",
+    "glassmorphism",
+    "animations",
+    "responsive"
+  ],
+  "last_updated": "2026-05-20T14:28:07.357Z"
+}
